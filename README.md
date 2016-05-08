@@ -1,85 +1,76 @@
-*This policy is a "living" document, and subject to refinement and expansion in the future.*
-
-## Code of Conduct
-
-The **Android Study Group Slack** should be a safe place for everybody regardless of
-
-- gender, gender identity or gender expression 
-- sexual orientation
-- disability
-- physical appearance (including but not limited to body size)
-- race
-- age
-- religion
-
-As someone who is part of this Slack, you agree that:
-
-* We are collectively and individually committed to safety and inclusivity.
-* We have zero tolerance for abuse, harassment, or discrimination.
-* We respect people’s boundaries and identities.
-* We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
-We avoid using offensive topics as a form of humor.
+*Acest cod de conduita este un document in continua rafinare, poate suferi modificari in viitor.*
 
 
-We actively work towards:
+## Cod de conduita
 
-* Being a safe community
-* Cultivating a network of support & encouragement for each other
-* Encouraging responsible and varied forms of expression
+Grupul Slack **Romanian Android Developers** este un loc pasinic si sigur pentru toata lumea indiferent de
+
+- gen
+- orientare sexuala
+- dizabilitati
+- infatisare (incluzand dar nu limitat de marimea corpului)
+- rasa
+- varsta
+- religie
+
+Facand parte din acest grup, sunteti de acord cu urmatoarele:
+
+* Suntem dedicati sigurantei si incluziunii atat in mod colectiv cat si individual
+* Nu toleram abuzul, hartuiala sau discriminarea
+* Respectam identitatea si spatiul personal al fiecaruia
+* Ne abtinem sa folosim un limbaj ce poate fi catalogat ca si opresiv (sistematic sau nu), ex: sexist, rasist, homofobic, transfobic, 
+prejudicios cu privire la persoanele cu dizabilitati sau diferite clase sociale, etc - incluzand (dar nu limitat) insinuari.
+Evitam sa folosim teme ofensive ca si forma de umor.
+
+Lucram activ inspre:
+
+* A fi o comunitate pasnica.
+* A cultiva o retea de suport si incurajare pentru fiecare.
+* A incuraja forme de exprimare responsabile si variate.
 
 
-We condemn:
+Condamnam:
 
-* Stalking, doxxing, or publishing private information
-* Threats of harm, harassment
-* Anything that compromises people’s safety
+* Persecutarea, "doxxing" (procesul de a culege informatii de pe internet despre o anumita persoana, o companie sau oricine altcineva), sau publicarea de informatii personale.
+* Amenintarile, hartuiala.
+* Orice compromite siguranta personala.
 
-**These things are NOT OK.**
+**Aceste lucruri NU SUNT OK**
 
-If you say something that is found offensive, and you are called out on it, let’s:
+Daca spuneti ceva ce este considerat ofensiv, este important sa:
 
-* Listen without interruption.
-* Believe what the person is saying & do not attempt to disqualify what they have to say.
-* Ask for tips / help with avoiding making the offense in the future.
-* Apologize and ask forgiveness.
+* Asculatati fara intrerupere.
+* Aveti incredere in ce va comunica cealalta persoana si nu incercati sa descalificati ceea ce au de spus.
+* Cereti indrumari / ajutor pentru a evita ofensa in viitor.
+* Cereti scuze. 
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
+Nerespectarea acestui cod de conduita aduce dupa sine consecinte. Pentru abateri minore, se poate sa fiti suspendat in mod temporar din grup. Abaterile in mod repetat sau raportarile din partea comunitatii pot aduce dupa sine excluderea totala din grup. 
 
 
-**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their Slack IDs:**
+** Daca sunteti pus in situatia unui abuz, hartuire, discriminare, sau va simtiti persecutat, va rugam raportati unui administrator. Lista administratorilor si IDul lor Slack:**
 
-* Aleksei Zakharov - @alexey
-* Ben Lee - @bl
-* Corey Latislaw - @colabug
-* Danny Roa - @dannyroa
-* Eric Butler - @codebutler
-* Grantland Chew - @grantland
-* Haley Smith - @haley
-* Jake Wharton - @jw
-* Maria Neumayer - @maria
-* Ty Smith - @ty
-* Vince Mi - @vince
+* Andrei Catinean - @andrei
 
-*The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+*Administratorii au un rol de mediator impartial, ei nu vor modera sau edita ceva scris in Slack numai decat in urma rezolvarii unei dispute discutate.*
 
-## Member Nomination  
+## Cum participati in grup
 
-To nominate someone to join the Android Study Group, fill out [this](http://bit.ly/asgform) form with your name, their name and info, and why you are nominating them.  
+Acest grup este dedicat profesionistilor care lucreaza cu Android incluzand dezvoltatori si designeri, dar excluzand jurnalisti, recuiteri / profesionisti HR. Grupul isi propune sa adune dezvoltatorii Android de origine romana pentru facilitarea discutiilor si dezvoltarii profesionale. Prin urmare, mesajele de natura publicitara sau reclamele la anumite aplicatii/companii nu sunt tolerate. De asemenea, intrebarile despre proceduri ce incalca garantia si operarea corecta a dispozitivelor Android nu sunt punctul central al acestui grup.
 
-This study group is for people actively involved in creating Android applications professionally. This includes people like software engineers and designers, and excludes people like journalists or recruiters. The admins will take into consideration the amount of time the nominee has spent working on Android (at least 1 year is ideal). Other helpful data points include the company where they work (if applicable), apps they have built, and their contributions to the Android community (via open source software, meetups, blog posts, etc). Membership is determined by a vote from the admins, who will then send out an invitation to the nominee.
+Este de datoria tuturor membrilor activi sa monitorizeze si sa raporteze, ori de cate ori este posibil, unuia dintre administratori, mesaje ce incalca regulile grupului, precum si identificarea posibilelor imbunatatiri si ajustari a prezentului cod de conduita. 
 
-If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
+Daca va simtiti confortabil cu regulile mentionate mai sus si doriti sa participati in grup, va rugam accesati urmatorul formular: http://goo.gl/forms/5EostCiOwT
 
-## Slack Etiquette
+## Eticheta Slack
 
-### Slack Commands
+### Comenzi
 
-Many members of ASG have this Slack open during the work day, or installed on their phones. Additionally, there are members in many different time zones. Please be cautious about using  `@channel` or `@everyone` and avoid it if possible.
+Multi membri ai Romanian Android Developers au Slack deschis in timpul programului de lucru, sau au aplicatia instalata pe telefonul mobil. Mai mult, exista membri ce locuiesc in tari cu diverse fusuri orare. Va rugam fiti atenti la folosirea `@channel` sau `@everyone` evitandu-le pe cat posibil. 
 
-For tips and tricks or questions about Slack usage, check out #meta.
+Daca aveti intrebari legate de Slack in general, va rugam adresati-va unuia din administratori. 
 
-### Q & A
+### Intrebari
 
-Value your fellow members' time, and be considerate when asking questions. Before asking a question, please Google for it, and consult the Android documentation. If it is still unclear, please reference the sources you consulted in your question.
+Pretuiti timpul celorlalti membrii si fiti atent atunci cand puneti o intrebare. Inainte de a pune o intrebare, va rugam consultati Google si documentatia oficiala Android. Daca inca nu este clar, va rugam sa faceti referire la sursele consultate in intrebare. 
 
-When answering questions, avoid condescending language or impatience. We are all trying our hardest! 
+Cand raspundeti la o intrebare evitati limbajul ce denota superioritate sau nerabdare. Toti ne straduim cat mai tare sa ajutam cat mai mult!
