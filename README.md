@@ -47,7 +47,7 @@ Daca spuneti ceva ce este considerat ofensiv, este important sa:
 Nerespectarea acestui cod de conduita aduce dupa sine consecinte. Pentru abateri minore, se poate sa fiti suspendat in mod temporar din grup. Abaterile in mod repetat sau raportarile din partea comunitatii pot aduce dupa sine excluderea totala din grup. 
 
 
-** Daca sunteti pus in situatia unui abuz, hartuire, discriminare, sau va simtiti persecutat, va rugam raportati unui administrator. Lista administratorilor si IDul lor Slack:**
+**Daca sunteti pus in situatia unui abuz, hartuire, discriminare, sau va simtiti persecutat, va rugam raportati unui administrator. Lista administratorilor si IDul lor Slack:**
 
 * Andrei Catinean - @andrei
 
