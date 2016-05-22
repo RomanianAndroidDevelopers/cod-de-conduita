@@ -50,6 +50,7 @@ Nerespectarea acestui cod de conduita aduce dupa sine consecinte. Pentru abateri
 **Daca sunteti pus in situatia unui abuz, hartuire, discriminare, sau va simtiti persecutat, va rugam raportati unui administrator. Lista administratorilor si IDul lor Slack:**
 
 * Andrei Catinean - @andrei
+* Eduard Bolos - @eduard
 
 *Administratorii au un rol de mediator impartial, ei nu vor modera sau edita ceva scris in Slack numai decat in urma rezolvarii unei dispute discutate.*
 
